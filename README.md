@@ -1,6 +1,1 @@
-# Click [Here](http://startbootstrap.com/) to go to my page
-
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+# Click [Here](https://denverlobo.github.io/portfolio/) to go to my page
