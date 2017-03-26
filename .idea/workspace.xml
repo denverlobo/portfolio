@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ea6cf316-de7c-43ab-9ac1-13a0d427d6fb" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/denver.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/denver.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/downloads-bg.jpg" afterPath="$PROJECT_DIR$/img/downloads-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/denver.png" afterPath="$PROJECT_DIR$/img/denver.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grayscale.css" afterPath="$PROJECT_DIR$/css/grayscale.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grayscale.min.css" afterPath="$PROJECT_DIR$/css/grayscale.min.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,61 +24,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="114" column="22" lean-forward="false" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grayscale.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/grayscale.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="3820" lean-forward="false" selection-start-line="4" selection-start-column="3808" selection-end-line="4" selection-end-column="3820" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="27838" lean-forward="false" selection-start-line="4" selection-start-column="27838" selection-end-line="4" selection-end-column="27838" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/grayscale.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="228" column="33" lean-forward="true" selection-start-line="228" selection-start-column="33" selection-end-line="228" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grayscale.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/grayscale.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6450">
-              <caret line="258" column="23" lean-forward="false" selection-start-line="258" selection-start-column="23" selection-end-line="258" selection-end-column="23" />
+            <state relative-caret-position="75">
+              <caret line="87" column="35" lean-forward="true" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -92,6 +42,8 @@
       <find>padding-top</find>
       <find>list</find>
       <find>.list</find>
+      <find>downloads-bg</find>
+      <find>brand-heading</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,11 +58,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/grayscale.min.css" />
-        <option value="$PROJECT_DIR$/css/grayscale.css" />
         <option value="$PROJECT_DIR$/sass/grayscale.scss" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/grayscale.min.css" />
+        <option value="$PROJECT_DIR$/css/grayscale.css" />
       </list>
     </option>
   </component>
@@ -295,7 +247,7 @@
       <workItem from="1490510984574" duration="4201000" />
       <workItem from="1490516649285" duration="2457000" />
       <workItem from="1490553097778" duration="2238000" />
-      <workItem from="1490559446206" duration="2106000" />
+      <workItem from="1490559446206" duration="2497000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1490513180234</created>
@@ -374,18 +326,25 @@
       <option name="project" value="LOCAL" />
       <updated>1490555907660</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1490561581102</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1490561581102</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11002000" />
+    <option name="totallyTimeSpent" value="11393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33105022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -500,26 +459,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/grayscale.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6450">
-          <caret line="258" column="23" lean-forward="false" selection-start-line="258" selection-start-column="23" selection-end-line="258" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="27838" lean-forward="false" selection-start-line="4" selection-start-column="27838" selection-end-line="4" selection-end-column="27838" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4650">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/grayscale.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="258" column="23" lean-forward="false" selection-start-line="258" selection-start-column="23" selection-end-line="258" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -531,10 +482,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="114" column="22" lean-forward="false" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
+        <state relative-caret-position="141">
+          <caret line="4" column="27838" lean-forward="false" selection-start-line="4" selection-start-column="27838" selection-end-line="4" selection-end-column="27838" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grayscale.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="149" column="17" lean-forward="false" selection-start-line="149" selection-start-column="17" selection-end-line="149" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -542,15 +501,15 @@
     <entry file="file://$PROJECT_DIR$/css/grayscale.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="3820" lean-forward="false" selection-start-line="4" selection-start-column="3808" selection-end-line="4" selection-end-column="3820" />
+          <caret line="4" column="2536" lean-forward="false" selection-start-line="4" selection-start-column="2536" selection-end-line="4" selection-end-column="2536" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/grayscale.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="228" column="33" lean-forward="true" selection-start-line="228" selection-start-column="33" selection-end-line="228" selection-end-column="33" />
+        <state relative-caret-position="75">
+          <caret line="87" column="35" lean-forward="true" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="48" />
           <folding />
         </state>
       </provider>
