@@ -167,6 +167,11 @@ a:focus {
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
 }
+.text-font {
+  margin: 0 0 25px;
+  font-size: 17px;
+  line-height: 1.3;
+}
 .btn-circle:hover,
 .btn-circle:focus {
   outline: none;
